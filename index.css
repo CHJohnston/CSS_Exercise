@@ -1,0 +1,48 @@
+/*Exercise 2-Update elements with nav-link class */
+.nav-link {
+  color: orange;
+  text-decoration: none;
+}
+
+/*Exercise 3-Update elements in <main>*/
+main {
+  max-width: 600px;
+  width: 100%;
+  margin: 24px auto;
+}
+
+/*Exercise 4-Update elements in a <section>*/
+section {
+  margin: 24px auto;
+  padding: 16px;
+}
+
+/*Exercise 5-Add title id and style*/
+#title {
+  font-size: 40px;
+  font-weight: 800;
+}
+
+/*Exercise 6- Add d-inline class and style*/
+.d-inline {
+  display: inline;
+}
+
+/*Exercise 7-Remove bullets from nav items*/
+nav > ul {
+  list-style: none;
+}
+
+/*Exercise 8-Style body elements*/
+body {
+  background-color: #222;
+  color: #eee;
+}
+
+/*Exercise 9- avatar syles*/
+
+#avatar {
+  width: 100px;
+  margin: 32px auto;
+  display: block;
+}
